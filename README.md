@@ -7,7 +7,6 @@
 - <b>Python</b>
   - [ATM PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/ATM.py)
   - [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2>📺 Project Hunters</h2>
 
 - [Project Hunters Portfolio](https://github.com/Cynfinitely/Project_Hunters_Portfolio)
