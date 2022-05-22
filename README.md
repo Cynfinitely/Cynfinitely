@@ -9,7 +9,7 @@
   - [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
 <h2>📺 Project Hunters</h2>
 
-- [Project Hunters Portfolio]([https://github.com/Cynfinitely/Project_Hunters_Portfolio](https://github.com/Project-Hunters-Works/Portfolio))
+- [Project Hunters Portfolio](https://github.com/Project-Hunters-Works/Portfolio)
 
 <h2> 🤳 Connect with me:</h2>
 
