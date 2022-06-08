@@ -10,6 +10,7 @@
 <h2>📺 Project Hunters</h2>
 
 - [Project Hunters Portfolio](https://github.com/Project-Hunters-Works/Portfolio)
+- [Ducktivity](https://github.com/Project-Hunters-Works/Ducktivity)
 
 <h2> 🤳 Connect with me:</h2>
 
