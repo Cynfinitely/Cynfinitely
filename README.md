@@ -6,6 +6,7 @@
   - [CYN_RESUME_WEBSITE](https://github.com/Cynfinitely/CYN_RESUME_WEBSITE)
 - <b>HTML & CSS</b>
   - [NETFLIX SURVEY FORM](https://github.com/Cynfinitely/Netflix-Survey-Form)
+  - [GOOGLE LANDING PAGE](https://github.com/Cynfinitely/GOOGLE-LANDING-PAGE)
 - <b>Python</b>
   - [ATM PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/ATM.py)
   - [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
