@@ -11,19 +11,21 @@
 
 - <b>Netflix Survey Form</b>
   - [NETFLIX SURVEY FORM](https://github.com/Cynfinitely/Netflix-Survey-Form)
+  - In this project , I created survey form for users of Netflix. I used forms and It take inputs from user to send it to backend. Additionally , It was great project to understand positining of html elements.
 
 
 - <b>Google Landing Page</b>
   - [GOOGLE LANDING PAGE](https://github.com/Cynfinitely/GOOGLE-LANDING-PAGE)
+  - In this project , I created Google openning page. It was simple and aesthetic way to create search engine. I used HTML and CSS.
 
 
 - <b>Python</b>
   - [ATM PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/ATM.py)
   - [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
 
-
 <h2>📺 Project Hunters</h2>
 
+- As Project Hunters, we, 6 fellow came together to develop projects to increase our web development skills and create beautiful products. Our journey began with the idea of coming together and experiencing working atmosphere together from different countries and cities while learning web development. And then here we are now with the website of our own.
 - [Project Hunters Portfolio](https://github.com/Project-Hunters-Works/Portfolio)
 
 
