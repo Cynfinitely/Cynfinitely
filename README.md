@@ -12,9 +12,6 @@
   - [TOUR_PAGE](https://github.com/Cynfinitely/React_Tour_Page)
   - In this project I used react and sass.
 
-- <b>My Resume Website</b>
-  - [CYN_RESUME_WEBSITE](https://github.com/Cynfinitely/CYN_RESUME_WEBSITE)
-
 - <b>Netflix Survey Form</b>
   - [NETFLIX SURVEY FORM](https://github.com/Cynfinitely/Netflix-Survey-Form)
   - In this project , I created survey form for users of Netflix. I used forms and It take inputs from user to send it to backend. Additionally , It was great project to understand positining of html elements.
