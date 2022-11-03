@@ -8,10 +8,12 @@
   - In this project, we found solutions for people who are seeking study methods online. On this website, we offer people scientific study methods and provide them templates for that. We used SASS, Bootstrap, and Javascript. Also, we used Agile methods to handle workflow. I was also part of 6 member team and we pushed our work periodically to GitHub. We used Gumroad interface for our templates.Finally, we deploy our website by using IONOS web servers.
 
 - <b>React Projects</b>
+  - [movie-app](https://github.com/Cynfinitely/React_Movie_App)
+  -  Tech : React, react -router library, Bootstrap library, Axios library and Firebase
   - [info_cards](https://github.com/Cynfinitely/info_cards)
-  - In this project I used react, react router and bootstrap.
+  - Tech : react, react router and bootstrap.
   - [TOUR_PAGE](https://github.com/Cynfinitely/React_Tour_Page)
-  - In this project I used react and sass.
+  - Tech : react and sass.
 
 - <b>Netflix Survey Form</b>
   - [NETFLIX SURVEY FORM](https://github.com/Cynfinitely/Netflix-Survey-Form)
