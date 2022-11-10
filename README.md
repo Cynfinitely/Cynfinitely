@@ -1,5 +1,5 @@
 <h1>Hi, I'm Celal Yasin Nari!(AKA CYN) <br/><a href="https://github.com/Cynfinitely">Programmer</a>, <a href="https://www.linkedin.com/in/celal-yasin-nari/">Frontend Developer</a></h1>
-<p> I would like to be create and push limits everytime </p>
+<p> Better Than Yesterday.. </p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
