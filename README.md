@@ -8,7 +8,10 @@
 - 🔭 I’m currently working on [Ronaldoormessi](https://github.com/Cynfinitely/ronaldoormessi)  
   
 
-- 🌱 I’m currently learning Cloud.  
+- 🌱 I’m currently learning Cloud.
+
+
+- 🎉 New year , new aims.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
