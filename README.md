@@ -28,7 +28,7 @@
 
 - <b>Slush Match-To-Do</b>
   -  Click here to go : [Slush](https://github.com/Cynfinitely/slush)
-  -  I use PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
+  -  I used PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
 
 - <b>Ducktivity</b>
   - Click here to go : [Ducktivity](https://ducktivity.co/)
