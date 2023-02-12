@@ -26,6 +26,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Slush Match-To-Do</b>
+  -  Click here to go : [Slush](https://github.com/Cynfinitely/slush)
+  -  I use PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
+
 - <b>Ducktivity</b>
   - Click here to go : [Ducktivity](https://ducktivity.co/)
   - In this project, we found solutions for people who are seeking study methods online. On this website, we offer people scientific study methods and provide them templates for that. We used SASS, Bootstrap, and Javascript. Also, we used Agile methods to handle workflow. I was also part of 6 member team and we pushed our work periodically to GitHub. We used Gumroad interface for our templates.Finally, we deploy our website by using IONOS web servers.
