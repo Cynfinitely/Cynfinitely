@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [studyHelper](https://github.com/Cynfinitely/studyHelper)
   
 
-- 🌱 I’m currently learning Cloud.
+- 🌱 I’m currently learning java/spring.
 
 
 - 🎉 New year , new aims.
