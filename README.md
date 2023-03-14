@@ -26,6 +26,11 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Lin Bags</b>
+  -  Click here to go : [Lin Bags](https://github.com/Cynfinitely/fs12-fullstack)
+  -  MERN Stack , Tailwind CSS 
+  -  It was great experience to create whole full-stack app for e-commerce website. It was fun to create whole authentication system , relational databases and components like carousel in tailwind. Security and design was my main aim in this project. New features will be added periodically.
+
 - <b>Slush Match-To-Do</b>
   -  Click here to go : [Slush](https://github.com/Cynfinitely/slush)
   -  I used PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
