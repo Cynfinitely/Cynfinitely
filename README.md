@@ -43,6 +43,8 @@
 
 <h3> 🗿 React Projects</h3>
 
+  - [ronaldoVSmessi](https://github.com/Cynfinitely/ronaldoormessi)
+    -  Tech : React, Redux toolkit, Tailwind, and Firebase
   - [movie-app](https://github.com/Cynfinitely/React_Movie_App)
     -  Tech : React, react -router library, Bootstrap library, Axios library and Firebase
   - [info_cards](https://github.com/Cynfinitely/info_cards)
