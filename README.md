@@ -5,6 +5,8 @@
 ### <div align="center"><h1>Hi, I'm Celal Yasin Nari!(AKA CYN) <br/><a href="https://github.com/Cynfinitely">Programmer 👨‍💻</a>, <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1>  </div>  
   
 
+- Currently working at Silcube Software OY as Junior Backend Developer.
+
 - 🔭 I’m currently working on [studyHelper](https://github.com/Cynfinitely/studyHelper)
   
 
