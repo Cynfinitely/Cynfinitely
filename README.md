@@ -12,14 +12,8 @@
 - 🔭 I’m currently working on [studyHelper](https://github.com/Cynfinitely/studyHelper)
   
 
-
-
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
-
-- ⚡ Fun fact: I like cats 🐱  
   
 
 <br/>  
