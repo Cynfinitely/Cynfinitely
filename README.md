@@ -1,77 +1,70 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>
 
-### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1>  </div>  
-  
+### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1> </div>
 
 - Currently working at Silcube Software OY as Junior Backend Developer.
 
 - Check my resume website here [CYN RESUME WEBSITE](https://cyn-resume-website.vercel.app/)
 
 - 🔭 I’m currently working on [studyHelper](https://github.com/Cynfinitely/studyHelper)
-  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-  
+- ❓ Ask me about anything related to MERN stack and related technologies
 
-<br/>  
+<br/>
 
 ** <p> Better Than Yesterday! </p> **
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Oxford Library</b>
-  -  Click here to go : [Oxford Library](https://github.com/Cynfinitely/Oxford_Library)
-  -  React , Tailwind CSS , Java , Spring 
+
+  - Click here to go : [Oxford Library](https://github.com/Cynfinitely/Oxford_Library)
+  - React , Tailwind CSS , Java , Spring
 
 - <b>Lin Bags</b>
-  -  Click here to go : [Lin Bags](https://github.com/Cynfinitely/fs12-fullstack)
-  -  MERN Stack , Tailwind CSS 
-  -  It was great experience to create whole full-stack app for e-commerce website. It was fun to create whole authentication system , relational databases and components like carousel in tailwind. Security and design was my main aim in this project. New features will be added periodically.
+
+  - Click here to go : [Lin Bags](https://github.com/Cynfinitely/fs12-fullstack)
+  - MERN Stack , Tailwind CSS
+  - It was great experience to create whole full-stack app for e-commerce website. It was fun to create whole authentication system , relational databases and components like carousel in tailwind. Security and design was my main aim in this project. New features will be added periodically.
 
 - <b>Slush Match-To-Do</b>
-  -  Click here to go : [Slush](https://github.com/Cynfinitely/slush)
-  -  I used PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
-
-
+  - Click here to go : [Slush](https://github.com/Cynfinitely/slush)
+  - I used PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
 
 <h3> 🗿 React Projects</h3>
 
-  - [ronaldoVSmessi](https://github.com/Cynfinitely/ronaldoormessi)
-    -  Tech : React, Redux toolkit, Tailwind, and Firebase
-  - [movie-app](https://github.com/Cynfinitely/React_Movie_App)
-    -  Tech : React, react -router library, Bootstrap library, Axios library and Firebase
-  - [info_cards](https://github.com/Cynfinitely/info_cards)
-    - Tech : react, react router and bootstrap.
-  - [TOUR_PAGE](https://github.com/Cynfinitely/React_Tour_Page)
-    - Tech : react and sass.
-
-
+- [ronaldoVSmessi](https://github.com/Cynfinitely/ronaldoormessi)
+  - Tech : React, Redux toolkit, Tailwind, and Firebase
+- [movie-app](https://github.com/Cynfinitely/React_Movie_App)
+  - Tech : React, react -router library, Bootstrap library, Axios library and Firebase
+- [info_cards](https://github.com/Cynfinitely/info_cards)
+  - Tech : react, react router and bootstrap.
+- [TOUR_PAGE](https://github.com/Cynfinitely/React_Tour_Page)
+  - Tech : react and sass.
 
 <h3>👨‍💻 HTML / CSS Projects:</h3>
 
 - <b>Ducktivity</b>
+
   - Click here to go : [Ducktivity](https://ducktivity.co/)
   - In this project, we found solutions for people who are seeking study methods online. On this website, we offer people scientific study methods and provide them templates for that. We used SASS, Bootstrap, and Javascript. Also, we used Agile methods to handle workflow. I was also part of 6 member team and we pushed our work periodically to GitHub. We used Gumroad interface for our templates.Finally, we deploy our website by using IONOS web servers.
 
 - <b>Netflix Survey Form</b>
+
   - [NETFLIX SURVEY FORM](https://github.com/Cynfinitely/Netflix-Survey-Form)
   - In this project , I created survey form for users of Netflix. I used forms and It take inputs from user to send it to backend. Additionally , It was great project to understand positining of html elements.
-
 
 - <b>Google Landing Page</b>
   - [GOOGLE LANDING PAGE](https://github.com/Cynfinitely/GOOGLE-LANDING-PAGE)
   - In this project , I created Google openning page. It was simple and aesthetic way to create search engine. I used HTML and CSS.
 
-
-
 <h3> 🐍 Python Projects</h3>
 
-  - [ATM PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/ATM.py)
-  
-  - [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
+- [ATM PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/ATM.py)
+
+- [QUIZ PROJECT](https://github.com/Cynfinitely/Python/blob/main/Mini%20Projects/Quiz.py)
 
 <h2>📺 Project Hunters</h2>
 
@@ -79,12 +72,12 @@
 - [Project Hunters Portfolio](https://github.com/Project-Hunters-Works/Portfolio)
 - [Ducktivity](https://github.com/Project-Hunters-Works/Ducktivity)
 
-## My Skill Set  
+## My Skill Set
+
 <table><tr><td valign="top" width="33%">
 
+### Frontend
 
-
-### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -99,9 +92,8 @@
 
 </td><td valign="top" width="33%">
 
+### Backend
 
-
-### Backend  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
@@ -119,9 +111,8 @@
 
 </td><td valign="top" width="33%">
 
+### DevOps
 
-
-### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
@@ -131,12 +122,12 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+## Connect with me
 
-## Connect with me  
 <div align="center">
 <a href="https://github.com/Cynfinitely" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -148,31 +139,29 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cynfinitely&show_icons=true&theme=tokyonight)" align="center" /></div>  
+<br/>
 
-<br/>  
+## Github Stats
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cynfinitely&show_icons=true&theme=tokyonight)" align="center" /></div>
 
-<br/>  
+<br/>
+
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Cynfinitely&&style=flat-square" align="center" />
 </div>  
-  
 
-<br/>  
 
-<div align="center"></div>  
+<br/>
 
-<br/>  
+<div align="center"></div>
 
+<br/>
 
 <br />
 
-----
+---
