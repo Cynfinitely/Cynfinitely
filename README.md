@@ -4,7 +4,7 @@
 
 ### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1> </div>
 
-- Currently working at Silcube Software OY as Junior Backend Developer.
+- I worked in Silcube Software OY as Junior Backend Developer.
 
 - Check my resume website here [CYN RESUME WEBSITE](https://cyn-resume-website.vercel.app/)
 
