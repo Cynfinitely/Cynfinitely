@@ -1,16 +1,12 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>
-
 ### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1> </div>
 
-- I worked in Silcube Software OY as Junior Backend Developer.
+- I worked in Silcube Software OY as a Junior Backend Developer.
 
 - Check my resume website here [CYN RESUME WEBSITE](https://cyn-resume-website.vercel.app/)
 
-- 🔭 I’m currently working on [studyHelper](https://github.com/Cynfinitely/studyHelper)
+- 🔭 I’m currently working on [Finnify](https://github.com/Cynfinitely/Finnify)
 
-- ❓ Ask me about anything related to MERN stack and related technologies
+- ❓ Ask me about anything related to the MERN stack and related technologies
 
 <br/>
 
