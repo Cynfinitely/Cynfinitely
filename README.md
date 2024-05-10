@@ -2,6 +2,11 @@
 
 <h2>Projects:</h2>
 
+- <b>CynSeat</b>
+
+  - Click here to go : [CynSeat](https://github.com/Cynfinitely/cynseat)
+  - Cynseat is a ticket booking application built with Next.js and TypeScript. It provides a user-friendly interface for customers to browse and purchase tickets for various events.
+
 - <b>Oxford Library</b>
 
   - Click here to go : [Oxford Library](https://github.com/Cynfinitely/Oxford_Library)
