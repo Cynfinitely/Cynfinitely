@@ -21,8 +21,12 @@
   - Click here to go : [Slush](https://github.com/Cynfinitely/slush)
   - I used PERN stack in this project. Postgres , Express , React . NodeJs ,Typescript , Tailwind CSS
 
+<h3>Chrome Extensions:</h2>
 
+- <b>AquiReminder</b>
 
+  - Click here to go : [AquiReminder](https://github.com/Cynfinitely/AquiReminder)
+  - This project is a Chrome extension named "AquiReminder" designed to remind users to stay hydrated by drinking water at regular intervals. The extension allows users to set a timer for a specified number of minutes. Once the timer is set, it runs in the background, even if the popup is closed. When the timer expires, an alert window pops up with a reminder message and a sound notification, prompting the user to drink water. The alert window is designed to be attention-grabbing, ensuring that the user doesn't miss the reminder.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celal-yasin-nari) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCwmLn5uDV3yjfDWczVVTUow) 
