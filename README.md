@@ -1,4 +1,4 @@
-### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer</a></h1> </div>
+### <div align="center"><h1>Hi, I'm Celal Yasin Nari!<br/> <a href="https://www.linkedin.com/in/celal-yasin-nari/">Fullstack Developer @[Etufillari](https://www.linkedin.com/company/etufillarioy)</a></h1> </div>
 
 <h2>Projects:</h2>
 
