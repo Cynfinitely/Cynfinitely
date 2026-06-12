@@ -22,23 +22,25 @@ Senior fullstack developer with experience across the stack — from React and N
 
 ## Featured Projects
 
-### [CynSeat](https://github.com/Cynfinitely/cynseat) · [Live demo](https://cynseat.vercel.app)
+### Hobby
 
-Dynamic ticketing platform for event organizers and attendees — event creation, ticket sales, and attendee management in one place. Serving **200+ users and NGOs**.
+#### Game
 
-`Next.js` `TypeScript` `React`
-
----
-
-### [Craft Master 67](https://github.com/Cynfinitely/Craft-master-67)
+**[Craft Master 67](https://github.com/Cynfinitely/Craft-master-67)**
 
 Crafting helper for Path of Exile 2 — a focused utility for planning and tracking in-game crafting workflows.
 
 `TypeScript`
 
----
+#### Utility
 
-### [EchoScribe](https://github.com/Cynfinitely/EchoScribe)
+**[AquiReminder](https://github.com/Cynfinitely/AquiReminder)**
+
+Chrome extension that reminds you to stay hydrated. Set a timer, get alerts with sound even when the popup is closed.
+
+`JavaScript` `Chrome Extension API`
+
+**[EchoScribe](https://github.com/Cynfinitely/EchoScribe)**
 
 Turn spoken words into accurate text. Transcribes video and audio into readable output using OpenAI Whisper, with a simple pipeline for developers.
 
@@ -46,7 +48,9 @@ Turn spoken words into accurate text. Transcribes video and audio into readable 
 
 ---
 
-### [MTS Security](https://github.com/Cynfinitely/mtssecurity) · [Live demo](https://mtssecurity.vercel.app)
+### Businesses
+
+**[MTS Security](https://github.com/Cynfinitely/mtssecurity) · [Live demo](https://mtssecurity.vercel.app)**
 
 Responsive marketing website for MTS Security — clean layout, professional presentation, deployed on Vercel.
 
@@ -54,11 +58,23 @@ Responsive marketing website for MTS Security — clean layout, professional pre
 
 ---
 
-### [AquiReminder](https://github.com/Cynfinitely/AquiReminder)
+### Community
 
-Chrome extension that reminds you to stay hydrated. Set a timer, get alerts with sound even when the popup is closed.
+**[CynSeat](https://github.com/Cynfinitely/cynseat) · [Live demo](https://cynseat.vercel.app)**
 
-`JavaScript` `Chrome Extension API`
+Free ticketing platform for NGOs and event organizers — event creation, ticket sales, and attendee management without the usual overhead. Serving **200+ users and NGOs**.
+
+`Next.js` `TypeScript` `React`
+
+---
+
+### Personal
+
+**[CYN Resume Website](https://github.com/Cynfinitely/CYN_RESUME_WEBSITE) · [Live demo](https://cyn-resume-website.vercel.app)**
+
+Personal portfolio and resume site — professional presentation of experience, projects, and contact info.
+
+`Next.js` `TypeScript` `React`
 
 ---
 
