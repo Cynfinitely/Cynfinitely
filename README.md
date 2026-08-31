@@ -4,8 +4,9 @@
 
 **Senior Fullstack Developer** at [Northfina](https://www.linkedin.com/company/northfina)
 
-I build fullstack web applications, ship products that real users depend on, and work on fintech solutions by day — with open source and side projects on the side.
+I build fullstack web applications with Next.js and Azure, ship products that real users depend on, and work on benefits platforms by day — with open source and side projects on the side.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cynfinitely)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celal-yasin-nari)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cyn-resume-website.vercel.app)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CynCoding)
@@ -16,7 +17,7 @@ I build fullstack web applications, ship products that real users depend on, and
 
 ## About
 
-Senior fullstack developer with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I work on financial software; outside of work, I maintain **CynSeat** and build tools like transcription pipelines and browser extensions.
+Senior fullstack developer with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I build Next.js and Azure Functions apps for the **Etufillari** bike-benefits platform. Outside of work, I maintain **Control** (life-management), **CynSeat**, and tools like Craft Master 67, transcription pipelines, and browser extensions. I also share job-hunting and engineering content on YouTube and mentor developers.
 
 ---
 
@@ -24,13 +25,21 @@ Senior fullstack developer with experience across the stack — from React and N
 
 ### Hobby
 
+#### Product
+
+**[Control](https://github.com/Cynfinitely/Control) · [Live demo](https://control-two-psi.vercel.app)**
+
+Invite-only personal life-management app — todos, goals, food, exercise, religious practice, career, networking, and cross-area reports. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth`
+
 #### Game
 
 **[Craft Master 67](https://github.com/Cynfinitely/Craft-master-67)**
 
-Crafting helper for Path of Exile 2 — a focused utility for planning and tracking in-game crafting workflows.
+Local-first Path of Exile 2 crafting helper — item/mod browser, materials with live prices, cost-ranked craft planner (essence, desecrate, fracture, alloys), luck/brick read, item-paste from clipboard, and a profit dashboard.
 
-`TypeScript`
+`Next.js` `TypeScript` `Tailwind CSS` `SQLite`
 
 #### Utility
 
@@ -72,7 +81,7 @@ Free ticketing platform for NGOs and event organizers — event creation, ticket
 
 **[CYN Resume Website](https://github.com/Cynfinitely/CYN_RESUME_WEBSITE) · [Live demo](https://cyn-resume-website.vercel.app)**
 
-Personal portfolio and resume site — professional presentation of experience, projects, and contact info.
+Newspaper-style personal brand site — professional presentation of experience, projects, and contact info.
 
 `Next.js` `TypeScript` `React`
 
@@ -91,11 +100,15 @@ Personal portfolio and resume site — professional presentation of experience, 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 
 **Backend & Data**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
@@ -110,6 +123,6 @@ Personal portfolio and resume site — professional presentation of experience, 
 
 <div align="center">
 
-Open to connecting on [LinkedIn](https://www.linkedin.com/in/celal-yasin-nari) — especially around fullstack development, fintech, and interesting side projects.
+Open to connecting on [LinkedIn](https://www.linkedin.com/in/celal-yasin-nari) — especially around fullstack development, benefits platforms, and interesting side projects.
 
 </div>
