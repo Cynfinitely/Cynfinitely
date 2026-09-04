@@ -29,7 +29,7 @@ Senior fullstack developer with experience across the stack — from React and N
 
 **[Control](https://github.com/Cynfinitely/Control) · [Live demo](https://control-two-psi.vercel.app)**
 
-Invite-only personal life-management app — todos, goals, food, exercise, religious practice, career, networking, and cross-area reports. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
+Invite-only personal life-management app — todos, goals, budget, health, journal, food, exercise, religious practice, career, networking, and cross-area reports. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth`
 
