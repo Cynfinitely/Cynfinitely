@@ -17,7 +17,7 @@ I build fullstack web applications with Next.js and Azure, ship products that re
 
 ## About
 
-Senior fullstack developer with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I build Next.js and Azure Functions apps for the **Etufillari** bike-benefits platform. Outside of work, I maintain **Control** (life-management), **CynSeat**, and tools like Craft Master 67, transcription pipelines, and browser extensions. I also share job-hunting and engineering content on YouTube and mentor developers.
+Senior fullstack developer based in Helsinki, with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I build Next.js and Azure Functions apps for the **Etufillari** bike-benefits platform. Outside of work, I maintain **Control** (life-management), **CynSeat**, and tools like Craft Master 67, transcription pipelines, and browser extensions. I also share job-hunting and engineering content on YouTube and mentor developers.
 
 ---
 
@@ -31,7 +31,7 @@ Senior fullstack developer with experience across the stack — from React and N
 
 Invite-only personal life-management app — todos, goals, budget, health, journal, food, exercise, religious practice, career, networking, and cross-area reports. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
 
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth`
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Tailwind CSS`
 
 #### Game
 
@@ -49,11 +49,11 @@ Chrome extension that reminds you to stay hydrated. Set a timer, get alerts with
 
 `JavaScript` `Chrome Extension API`
 
-**[EchoScribe](https://github.com/Cynfinitely/EchoScribe)**
+**[EchoScribe](https://github.com/Cynfinitely/EchoScribe) · [Live demo](https://huggingface.co/spaces/Cynfinitely/EchoScribe)**
 
-Turn spoken words into accurate text. Transcribes video and audio into readable output using OpenAI Whisper, with a simple pipeline for developers.
+Turn spoken words into accurate text. Transcribes video and audio with OpenAI Whisper — timestamps, SRT export, and privacy-first processing with no permanent storage.
 
-`Python` `OpenAI Whisper`
+`Python` `FastAPI` `OpenAI Whisper` `Docker`
 
 ---
 
@@ -106,6 +106,7 @@ Newspaper-style personal brand site — professional presentation of experience,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
