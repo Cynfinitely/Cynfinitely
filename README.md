@@ -17,7 +17,7 @@ I build fullstack web applications with Next.js and Azure, ship products that re
 
 ## About
 
-Senior fullstack developer based in Helsinki, with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I build Next.js and Azure Functions apps for the **Etufillari** bike-benefits platform. Outside of work, I maintain **Control** (life-management), **CynSeat**, and tools like Craft Master 67, transcription pipelines, and browser extensions. I also share job-hunting and engineering content on YouTube and mentor developers.
+Senior fullstack developer based in Helsinki, with experience across the stack — from React and Next.js frontends to Node, Java, and Python backends. I care about clean architecture, readable code, and getting software into the hands of real users. At **Northfina**, I build Next.js and Azure Functions apps for the **Etufillari** bike-benefits platform. Outside of work, I maintain **Control** (life-management), **Engoryx** (engineering management), **CynSeat**, and tools like Craft Master 67, transcription pipelines, and browser extensions. I also share job-hunting and engineering content on YouTube and mentor developers.
 
 ---
 
@@ -29,29 +29,35 @@ Senior fullstack developer based in Helsinki, with experience across the stack �
 
 **[Control](https://github.com/Cynfinitely/Control) · [Live demo](https://control-two-psi.vercel.app)**
 
-Invite-only personal life-management app — todos, goals, budget, health, journal, food, exercise, religious practice, career, networking, and cross-area reports. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
+Invite-only personal life-management app — todos, goals, budget with bank CSV import, health and migraine diary, journal, food logging and meal planning, exercise and workout programs, religious practice, career, networking, weather, and cross-area reports. Each user switches modules on and off, joins through single-use expiring invite links, and gets a page guide on every page. Cloud PostgreSQL so it works on Mac, desktop, and iPhone.
 
 `Next.js` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Tailwind CSS`
+
+**Engoryx** · private repo
+
+Multi-tenant engineering-management platform — teams, daily updates, project roadmaps and goals, GitHub App integration with pull-request lookup and reports, career tracks, and weekly delivery assessments. Metrics are transparent and evidence-backed, with no developer performance score.
+
+`Next.js` `TypeScript` `Cloudflare Workers` `D1` `Drizzle` `Tailwind CSS`
 
 #### Game
 
 **[Craft Master 67](https://github.com/Cynfinitely/Craft-master-67)**
 
-Local-first Path of Exile 2 crafting helper — item/mod browser, materials with live prices, cost-ranked craft planner (essence, desecrate, fracture, alloys), luck/brick read, item-paste from clipboard, and a profit dashboard.
+Local-first Path of Exile 2 crafting helper — item/mod browser, materials with live prices, cost-ranked craft planner (essence, desecrate, fracture, alloys), luck/brick read, item-paste from clipboard, saved plans re-priced at today's prices, and a profit dashboard backed by a market worker that scans live listings, tablets, and gems.
 
-`Next.js` `TypeScript` `Tailwind CSS` `SQLite`
+`Next.js` `TypeScript` `Tailwind CSS` `SQLite` `Drizzle`
 
 #### Utility
 
 **[AquiReminder](https://github.com/Cynfinitely/AquiReminder)**
 
-Chrome extension that reminds you to stay hydrated. Set a timer, get alerts with sound even when the popup is closed.
+Chrome extension that reminds you to stay hydrated. Set a timer, get alerts with sound even when the popup is closed, then acknowledge, snooze, or pause. Available in six languages.
 
 `JavaScript` `Chrome Extension API`
 
 **[EchoScribe](https://github.com/Cynfinitely/EchoScribe) · [Live demo](https://huggingface.co/spaces/Cynfinitely/EchoScribe)**
 
-Turn spoken words into accurate text. Transcribes video and audio with OpenAI Whisper — timestamps, SRT export, and privacy-first processing with no permanent storage.
+Turn spoken words into accurate text. Transcribes video and audio with OpenAI Whisper — timestamps, TXT/SRT/JSON export, and privacy-first processing with no permanent storage. UI and API are served from a single URL.
 
 `Python` `FastAPI` `OpenAI Whisper` `Docker`
 
@@ -59,11 +65,17 @@ Turn spoken words into accurate text. Transcribes video and audio with OpenAI Wh
 
 ### Businesses
 
-**[MTS Security](https://github.com/Cynfinitely/mtssecurity) · [Live demo](https://mtssecurity.vercel.app)**
+**[MTS Security](https://github.com/Cynfinitely/mtssecurity) · [Live site](https://www.mts-sicherheit.com)**
 
-Responsive marketing website for MTS Security — clean layout, professional presentation, deployed on Vercel.
+Responsive one-page marketing website for MTS Security in Augsburg — clean layout, professional presentation, a contact form backed by a serverless email function, deployed on Vercel.
 
-`HTML` `CSS` `Vercel`
+`HTML` `CSS` `JavaScript` `Vercel`
+
+**Rüyamda** · private repo · [Live demo](https://dusyora.vercel.app)
+
+Turkish dream-interpretation platform — customers submit a dream, pay at submission, and receive a written interpretation from a human interpreter, not an AI. Payments and email sit behind small provider ports.
+
+`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Auth.js` `Tailwind CSS`
 
 ---
 
@@ -71,9 +83,9 @@ Responsive marketing website for MTS Security — clean layout, professional pre
 
 **[CynSeat](https://github.com/Cynfinitely/cynseat) · [Live demo](https://cynseat.vercel.app)**
 
-Free ticketing platform for NGOs and event organizers — event creation, ticket sales, and attendee management without the usual overhead. Serving **200+ users and NGOs**.
+Free ticketing platform for NGOs and event organizers — a single-event ticket storefront with a clear path from event to Stripe checkout for guests and signed-in users, a separate admin view with ticket-list download, and English, Finnish, and Turkish localization. Serving **200+ users and NGOs**.
 
-`Next.js` `TypeScript` `React`
+`Next.js` `TypeScript` `React` `Firebase` `Stripe`
 
 ---
 
@@ -112,11 +124,15 @@ Newspaper-style personal brand site — professional presentation of experience,
 ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
 **Tools & Cloud**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
