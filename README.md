@@ -35,7 +35,7 @@ Invite-only personal life-management app — todos, goals, budget with bank CSV 
 
 **Engoryx** · private repo
 
-Multi-tenant engineering-management platform — teams, daily updates, project roadmaps and goals, GitHub App integration with pull-request lookup and reports, career tracks, and weekly delivery assessments. Metrics are transparent and evidence-backed, with no developer performance score.
+Multi-tenant engineering-management platform — teams, daily updates, project roadmaps and goals, GitHub App integration with pull-request lookup and reports, and weekly delivery assessments. Standard projects let teams without GitHub run plans with goals, steps, and milestones, a timeline, and per-project daily reports, with XP, levels, and a leaderboard; non-developers join with email and password. Metrics are transparent and evidence-backed, with no developer performance score.
 
 `Next.js` `TypeScript` `Cloudflare Workers` `D1` `Drizzle` `Tailwind CSS`
 
